@@ -1,0 +1,24 @@
+# Thư mục chứa tệp biên dịch
+/target/
+
+# Các tệp cấu hình IDE
+/.idea/
+/*.iml
+/.project
+/.classpath
+/.settings/
+
+# Tệp nhật ký
+*.log
+
+# Tệp tạm thời
+*.tmp
+*.bak
+*.swp
+
+# Thư mục hệ điều hành hoặc môi trường
+.DS_Store
+Thumbs.db
+
+# Tệp cấu hình Maven cá nhân
+mvnw*
